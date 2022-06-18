@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO AND BRIEF DESCRIPTION -->
 <br />
 <div align="center">
-  <img src="path-to-logo.png" alt="Logo" width="100" height="100">
+  <img src="images/logo.png" alt="Logo" width="100" height="100">
 
   <h3 align="center">project_title</h3>
 
@@ -45,7 +45,7 @@
 ## Screenshots
 
 <p align="middle">
-  <img src="path-to-image-1.png" width="30%" />
+  <img src="images/screenshot.png" width="30%" />
 </p>
 
 
