@@ -45,12 +45,7 @@
 ## Screenshots
 
 <p align="middle">
-  <img src="Readme images/screen1.png" width="30%" />
-  <img src="Readme images/screen2.png" width="30%" />
-  <img src="Readme images/screen3.png" width="30%" />
-  <img src="Readme images/screen4.png" width="30%" />
-  <img src="Readme images/screen5.png" width="30%" />
-  <img src="Readme images/screen6.png" width="30%" />
+  <img src="path-to-image-1.png" width="30%" />
 </p>
 
 
