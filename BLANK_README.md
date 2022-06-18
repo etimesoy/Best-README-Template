@@ -57,6 +57,10 @@ To get a local copy up and running follow these simple steps:
    ```sh
    git clone https://github.com/etimesoy/repo_name.git
    ```
+   or
+   ```sh
+   git clone git@github.com:etimesoy/repo_name.git
+   ```
 2. Change the current directory to repo_name
    ```sh
    cd repo_name
