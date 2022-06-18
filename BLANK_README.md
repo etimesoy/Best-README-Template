@@ -79,7 +79,7 @@ To get a local copy up and running follow these simple steps:
 
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/etimesoy/repo_name/blob/main/LICENSE) for more information.
 
 
 ## Contact
