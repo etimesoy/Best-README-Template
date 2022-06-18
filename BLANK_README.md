@@ -29,10 +29,10 @@
 
 ## Features
 
-*  Template
-*  list
-*  of
-*  features
+* Template
+* list
+* of
+* features
 
 
 ## Tools
